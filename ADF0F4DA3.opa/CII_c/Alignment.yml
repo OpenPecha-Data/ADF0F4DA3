@@ -1,0 +1,75 @@
+segment_sources:
+  P85C88B88:
+    type: origin_type
+    relation: translation
+    language: sa
+  PFAECAD82:
+    type: origin_type
+    relation: translation
+    language: zh
+  P2BD1DFD4:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD70F874D:
+    type: origin_type
+    relation: translation
+    language: zh
+  PB72620F7:
+    type: origin_type
+    relation: translation
+    language: zh
+  P2E96B99A:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD5442D51:
+    type: origin_type
+    relation: translation
+    language: zh
+  P4988EAFD:
+    type: origin_type
+    relation: translation
+    language: zh
+  PA907F740:
+    type: origin_type
+    relation: translation
+    language: bo
+  P8842EBE2:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  7249304c24c94fa3a8501ae56e527d66:
+    P85C88B88: 048e8c7ca4824929abf92bcb3749106c
+    PFAECAD82: 334f646067804e35a406d39ff3697151
+    P2BD1DFD4: a6d2672275e64272b8246ad1fb375de9
+    PD70F874D: f8915cb7ed884cb79b46acbdd4948cfb
+    PB72620F7: fe28a05630fe42a5827f419fff519cf2
+    P2E96B99A: dcb6d1a4a2ec4ea38d30abbd6d4be531
+    PD5442D51: 1d7d1e7bc97a42a8b3c79f2cdf7c96ab
+    P4988EAFD: 77d67e024fd54b91ba5b43f9f10f6f3d
+    PA907F740: f1536b270d004b80a2dd1d8a7c4e90b0
+    P8842EBE2: 567cc997dfc94608a10eb5cb787a7f44
+  c6e276cfab524c45bbc48d2cedf03105:
+    P85C88B88: 9b67d10d5994475d9a49709258030c5c
+    PFAECAD82: 56c57ded4619453890e383aded252890
+    P2BD1DFD4: caecb3af15c241eeb6717070d4691e99
+    PD70F874D: c4cdabf03c07444f9ad46744ae39bf9a
+    PB72620F7: bca49385cf8747488067a4b9fd531502
+    P2E96B99A: f863a69c46914f04aa7043af153737b2
+    PD5442D51: 0537860bd2414cc39e915813d480f6b4
+    P4988EAFD: 45929c8d90994c11b3f0104416402e25
+    PA907F740: 734414c0fb66418fae5e1559cca3d4b9
+    P8842EBE2: 555b6a74af0e4ca58faca52cdb67b1c7
+  da63f3ff722b48e39e07f4054f0ac524:
+    P85C88B88: 862413cc0fc5472c950ba7926103d51b
+    PFAECAD82: 77d5fc1a2851422696785770a40390ed
+    P2BD1DFD4: 11ddcbf928204b78a6b48aac650af765
+    PD70F874D: a6b40d3067d647e697f0ba7c6f2c2d45
+    PB72620F7: 624b623b91e8467397665592ea39bae6
+    P2E96B99A: 86f41eeaa3214209b6ef6efb19c1c410
+    PD5442D51: ddf4c8a8903145f5aa69849ddc8e5a62
+    P4988EAFD: 7b1b39223a92492c96534e8389865b03
+    PA907F740: b9a6c56abecf4fe4aa13404ef1f6a014
+    P8842EBE2: 290d6416e18a4cad82f4c3f49baf6e8f
